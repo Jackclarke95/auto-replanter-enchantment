@@ -1,0 +1,21 @@
+{
+  "description": {
+    "translate": "enchantment.autoreplanter.auto_replanter"
+  },
+  "supported_items": "#autoreplanter:enchantable_tools",
+  "primary_items": "#autoreplanter:enchantable_tools",
+  "weight": 10,
+  "max_level": 1,
+  "min_cost": {
+    "base": 1,
+    "per_level_above_first": 0
+  },
+  "max_cost": {
+    "base": 21,
+    "per_level_above_first": 0
+  },
+  "anvil_cost": 1,
+  "slots": ["mainhand"],
+  "exclusive_set": [],
+  "effects": {}
+}
